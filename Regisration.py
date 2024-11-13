@@ -1,5 +1,5 @@
 # # Registration.py
-#
+# 单个执行文件
 # import os
 # from cryptography.hazmat.primitives.asymmetric import padding, ec, rsa
 # from cryptography.hazmat.primitives import hashes, serialization
